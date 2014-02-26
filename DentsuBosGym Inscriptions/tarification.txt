@@ -1,0 +1,22 @@
+'Fichier contenant les valeurs pour l'application. Ne pas modifier le nom des variables, seulement leur valeur au besoin.
+
+TAUX_TPS = 0,05
+TAUX_TVQ = 0,09975
+
+RAB_9_MOIS_INDIV = 0,1
+RAB_12_MOIS_INDIV = 0,15
+RAB_9_MOIS_FAM = 0,15
+RAB_12_MOIS_FAM = 0,2
+
+RAB_2_ACT_INDV = 0,1
+RAB_3_ACT_INDV = 0,15
+RAB_3_ACT_FAM = 0,1
+RAB_2_ACT_FAM = 0,0
+
+TARIF_CHEST_INDIV = 120,0
+TARIF_BRAS_INDIV = 110,0
+TARIF_DOS_INDIV = 100,0
+
+TARIF_CHEST_FAM = 160,0
+TARIF_BRAS_FAM = 140,0
+TARIF_DOS_FAM = 130,0
